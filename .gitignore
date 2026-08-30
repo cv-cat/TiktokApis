@@ -30,3 +30,6 @@ env.bak/
 venv.bak/
 datas
 *.zip
+.env
+.env.*
+!.env.example
